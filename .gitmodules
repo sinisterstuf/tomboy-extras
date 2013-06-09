@@ -1,0 +1,21 @@
+[submodule "tomboy-notepreview"]
+	path = tomboy-notepreview
+	url = https://gist.github.com/5744976.git
+[submodule "tomboy-dragndrop"]
+	path = tomboy-dragndrop
+	url = https://gist.github.com/5744967.git
+[submodule "tomboy-pastebinit"]
+	path = tomboy-pastebinit
+	url = https://gist.github.com/5744956.git
+[submodule "tomboy-calc"]
+	path = tomboy-calc
+	url = https://gist.github.com/5744951.git
+[submodule "tomboy-toc"]
+	path = tomboy-toc
+	url = https://gist.github.com/5744941.git
+[submodule "tomboy-todo"]
+	path = tomboy-todo
+	url = https://gist.github.com/5734776.git
+[submodule "tomboy-reminder"]
+	path = tomboy-reminder
+	url = https://gist.github.com/5675930.git
